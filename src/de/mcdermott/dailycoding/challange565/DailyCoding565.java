@@ -2,6 +2,12 @@ package de.mcdermott.dailycoding.challange565;
 
 import java.util.Arrays;
 
+/**
+ * <b>Task:</b>
+ * <p>Given an integer list where each number represents the number of hops you can make, determine whether you can
+ * reach to the last index starting at index 0.</p>
+ * <p>For example, [2, 0, 1, 0] returns True while [1, 1, 0, 1] returns False.</p>
+ */
 public class DailyCoding565 {
     private static final int[][] input;
 
