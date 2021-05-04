@@ -1,4 +1,4 @@
-package de.mcdermott.dailycoding.challange565;
+package de.mcdermott.dailycoding.challenge565;
 
 import java.util.Arrays;
 

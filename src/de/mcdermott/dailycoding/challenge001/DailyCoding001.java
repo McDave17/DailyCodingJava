@@ -1,4 +1,4 @@
-package de.mcdermott.dailycoding.challange001;
+package de.mcdermott.dailycoding.challenge001;
 
 import java.util.Arrays;
 import java.util.HashMap;
